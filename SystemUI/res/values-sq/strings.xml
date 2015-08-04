@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">Ndërfaqja e sistemit të përdoruesit</string>
+<string name="status_bar_clear_all_button">Pastro</string>
+<string name="status_bar_recent_remove_item_title">Fshij nga të preferuarat</string>
+<string name="status_bar_recent_inspect_item_title">Të dhënat e aplikimit</string>
+<string name="status_bar_no_recent_apps">Ekrani juaj shfaqet këtu</string>
+<string name="status_bar_accessibility_dismiss_recents">Hiq aplikacionet e fundit</string>
+<plurals name="status_bar_accessibility_recent_apps">
+<item quantity="one">1 ekran në Përmbledhje</item>
+<item quantity="other">"%d ekranë në Përmbledhje\'</item>
+</plurals>
+<string name="status_bar_no_notifications_title">Asnjë njoftim</string>
+<string name="status_bar_ongoing_events_title">Në vazhdim</string>
+<string name="status_bar_latest_events_title">Njoftimet</string>
+<string name="battery_low_title">Bateria është e ulët</string>
+<string name="invalid_charger">Karikimi USB nuk suportohet.\nPërdor vetëm karikuesin e dhënë.</string>
+<string name="invalid_charger_title">Karikimi USB nuk suportohet.</string>
+<string name="invalid_charger_text">Përdorni vetëm karikuesin e dhënë.</string>
+<string name="battery_low_why">Cilësimet</string>
+<string name="battery_saver_confirmation_title">Aktivizo kursyesin e baterisë?</string>
+<string name="battery_saver_confirmation_ok">Aktivizo</string>
+<string name="battery_saver_start_action">Aktivizo kursyesin e baterisë</string>
+<string name="status_bar_settings_settings_button">Cilësimet</string>
+<string name="status_bar_settings_wifi_button">Wi-Fi</string>
+<string name="status_bar_settings_airplane">Metoda Aeroplan</string>
+<string name="status_bar_settings_auto_rotation">Rrotullo automatikisht ekranin</string>
+<string name="status_bar_settings_mute_label">PA ZË</string>
+<string name="status_bar_settings_auto_brightness_label">Auto</string>
+<string name="status_bar_settings_notifications">Njoftimet</string>
+<string name="bluetooth_tethered">Bluetooth i lidhur</string>
+<string name="status_bar_input_method_settings_configure_input_methods">Ndërto metodat e hyrjes</string>
+<string name="status_bar_use_physical_keyboard">Tastierë fizike</string>
+<string name="usb_device_permission_prompt">"Lejo aplikacionin <xliff:g id="application">%1$s</xliff:g> të përdorë pajisjen USB?"</string>
+<string name="usb_accessory_permission_prompt">"Lejo aplikacionin <xliff:g id="application">%1$s</xliff:g> të përdorë aksesorin USB?"</string>
+<string name="usb_device_confirm_prompt">"Hap <xliff:g id="activity">%1$s</xliff:g> kur kjo pajisje USB është e lidhur?"</string>
+<string name="usb_accessory_confirm_prompt">"Hap <xliff:g id="activity">%1$s</xliff:g> kur ky aksesor USB është i lidhur?"</string>
+<string name="usb_accessory_uri_prompt">Asnjë aplikacion i instaluar nuk punon me këtë aksesor USB. Mësoni më shumë rreth këtij aksesori në <xliff:g id="url">%1$s</xliff:g>"</string>
+<string name="title_usb_accessory">Aksesor USB</string>
+<string name="label_view">Shiko</string>
+<string name="always_use_device">Përdor si standard për këtë pajisje USB</string>
+<string name="always_use_accessory">Përdor si standard për këtë aksesor USB</string>
+<string name="usb_debugging_title">Lejo rregullimin USB?</string>
+<string name="usb_debugging_message">"Shenja e gishtit çelës RSA e kompjuterit është:\n<xliff:g id="fingerprint">%1$s</xliff:g>"</string>
+<string name="usb_debugging_always">Lejo gjithmonë nga ky kompjuter</string>
+<string name="compat_mode_on">Zmadho për të mbushur ekranin</string>
+<string name="compat_mode_off">Tendos për të mbushur ekranin</string>
+<string name="screenshot_saving_ticker">Duke ruajtur foton e ekranit...</string>
+<string name="screenshot_saving_title">Duke ruajtur foton e ekranit...</string>
+<string name="screenshot_saving_text">Fotoja e ekranit po ruhet.</string>
+<string name="screenshot_saved_title">Fotoja e ekranit u kap.</string>
+<string name="screenshot_saved_text">Prek për të parë foton e ekranit.</string>
+<string name="screenshot_failed_title">Nuk mundi të kapë foton e ekranit.</string>
+<string name="screenshot_failed_text">Nuk mund të kapë foto ekrani për shkak të memories të kufizuar, ose nuk lejohet nga aplikacioni ose organizata juaj.</string>
+<string name="usb_preference_title">Opsione të transferimit të skedarëve të USB-së</string>
+<string name="use_mtp_button_title">Monto si luajtës i medias (MTP)</string>
+<string name="use_ptp_button_title">Monto si kamera (PTP)</string>
+<string name="installer_cd_button_title">Instalo aplikacionin e Transferimit të Skedarëve në Android për Mac</string>
+<string name="accessibility_back">Kthehu</string>
+<string name="accessibility_home">Ekrani kryesor</string>
+<string name="accessibility_menu">Menu</string>
+<string name="accessibility_recent">Pamje e përgjithshme</string>
+<string name="accessibility_search_light">Kërko</string>
+<string name="accessibility_camera_button">Kamera</string>
+<string name="accessibility_phone_button">telefon</string>
+<string name="accessibility_unlock_button">Hap</string>
+<string name="unlock_label">Hap</string>
+<string name="phone_label">hap telefonin</string>
+<string name="camera_label">hap kamerën</string>
+<string name="accessibility_ime_switch_button">Butoni i ndryshimit të metodës të hyrjes.</string>
+<string name="accessibility_compatibility_zoom_button">Butoni i zmadhimit të pajtueshmërisë.</string>
+<string name="accessibility_compatibility_zoom_example">Zmadho nga ekran më i vogël në më të madh.</string>
+<string name="accessibility_bluetooth_connected">Bluetooth u lidh.</string>
+<string name="accessibility_bluetooth_disconnected">Bluetooth u shkëput.</string>
+<string name="accessibility_no_battery">Ska bateri.</string>
+<string name="accessibility_battery_one_bar">Bateria një vijë.</string>
+<string name="accessibility_battery_two_bars">Bateria dy vija.</string>
+<string name="accessibility_battery_three_bars">Bateria tre vija.</string>
+<string name="accessibility_battery_full">Bateria plot.</string>
+<string name="accessibility_no_phone">Ska sinjal telefoni.</string>
+<string name="accessibility_phone_one_bar">Telefoni një vijë.</string>
+<string name="accessibility_phone_two_bars">Telefoni dy vija.</string>
+<string name="accessibility_phone_three_bars">Telefoni tre vija.</string>
+<string name="accessibility_phone_signal_full">Sinjali i telefonit plot.</string>
+<string name="accessibility_no_data">Ska të dhëna.</string>
+<string name="accessibility_data_one_bar">Të dhënat një vijë.</string>
+<string name="accessibility_data_two_bars">Të dhënat dy vija.</string>
+<string name="accessibility_data_three_bars">Të dhënat tre vija.</string>
+<string name="accessibility_data_signal_full">Sinjali i të dhënave plot.</string>
+<string name="accessibility_wifi_off">Wifi joaktive.</string>
+<string name="accessibility_no_wifi">Wifi e shkëputur.</string>
+<string name="accessibility_wifi_one_bar">Wifi një vijë.</string>
+<string name="accessibility_wifi_two_bars">Wifi dy vija.</string>
+<string name="accessibility_wifi_three_bars">Wifi tre vija.</string>
+<string name="accessibility_wifi_signal_full">Sinjali Wifi plot.</string>
+<string name="accessibility_wifi_name">"Lidhur me <xliff:g id="wifi" example="Rrjeti Shtëpi">%s</xliff:g>."</string>
+<string name="accessibility_bluetooth_name">"Lidhur me <xliff:g id="bluetooth" example="Audio Makine">%s</xliff:g>."</string>
+<string name="accessibility_no_wimax">Ska WiMAX.</string>
+<string name="accessibility_wimax_one_bar">WiMAX një vijë.</string>
+<string name="accessibility_wimax_two_bars">WiMAX dy vija.</string>
+<string name="accessibility_wimax_three_bars">WiMAX tre vija.</string>
+<string name="accessibility_wimax_signal_full">Sinjali WiMAX plot.</string>
+<string name="accessibility_no_signal">Ska sinjal.</string>
+<string name="accessibility_not_connected">Nuk është lidhur.</string>
+<string name="accessibility_zero_bars">Zero vija.</string>
+<string name="accessibility_one_bar">Një vijë</string>
+<string name="accessibility_two_bars">Dy vija.</string>
+<string name="accessibility_three_bars">Tre vija.</string>
+<string name="accessibility_signal_full">Sinjali plot.</string>
+<string name="accessibility_desc_on">Aktive.</string>
+<string name="accessibility_desc_off">Joaktive.</string>
+<string name="accessibility_desc_connected">Lidhur.</string>
+<string name="accessibility_desc_connecting">Duke u lidhur.</string>
+<string name="accessibility_data_connection_roaming">Roaming</string>
+<string name="accessibility_data_connection_wifi">Wi-Fi</string>
+<string name="accessibility_no_sim">Ska SIM.</string>
+<string name="accessibility_bluetooth_tether">Lidhja Bluetooth.</string>
+<string name="accessibility_airplane_mode">Metoda Aeroplan.</string>
+<string name="accessibility_settings_button">Cilësimet e sistemit.</string>
+<string name="accessibility_notifications_button">Njoftimet.</string>
+<string name="accessibility_remove_notification">Pastro njoftimet.</string>
+<string name="accessibility_gps_enabled">GPS aktivizuar.</string>
+<string name="accessibility_gps_acquiring">Duke marrë GPS.</string>
+<string name="accessibility_tty_enabled">TeleTypewriter aktivizuar.</string>
+<string name="accessibility_ringer_vibrate">Zilja me dridhje.</string>
+<string name="accessibility_ringer_silent">Zilja e heshtur.</string>
+<string name="accessibility_recents_item_will_be_dismissed">"Largo <xliff:g id="app" example="Kalendar">%s</xliff:g>."</string>
+<string name="accessibility_recents_item_dismissed">"<xliff:g id="app" example="Calendar">%s</xliff:g> u largua."</string>
+<string name="accessibility_recents_item_launched">"Duke nisur <xliff:g id="app" example="Kalendar">%s</xliff:g>."</string>
+<string name="accessibility_notification_dismissed">Njoftimi është hequr.</string>
+<string name="accessibility_desc_notification_shade">Hija e njoftimit.</string>
+<string name="accessibility_desc_quick_settings">Cilësimet e shpejta</string>
+<string name="accessibility_desc_lock_screen">Ekrani i kyçjes</string>
+<string name="accessibility_desc_settings">Cilësimet</string>
+<string name="accessibility_desc_recent_apps">Përmbledhje.</string>
+<string name="accessibility_quick_settings_user">"Përdoruesi <xliff:g id="user" example="John Doe">%s</xliff:g>."</string>
+<string name="accessibility_quick_settings_wifi">"<xliff:g id="signal" example="Tre vija">%1$s</xliff:g>."</string>
+<string name="accessibility_quick_settings_wifi_changed_off">Wifi i fikur.</string>
+<string name="accessibility_quick_settings_wifi_changed_on">Wifi i ndezur.</string>
+<string name="accessibility_quick_settings_mobile">"Celulari <xliff:g id="signal" example="Tre vija">%1$s</xliff:g>. <xliff:g id="type" example="4G">%2$s</xliff:g>. <xliff:g id="network" example="T-Mobile">%3$s</xliff:g>."</string>
+<string name="accessibility_quick_settings_battery">"Bateria <xliff:g id="state" example="50% në karikim">%s</xliff:g>."</string>
+<string name="accessibility_quick_settings_airplane_off">Metoda e aeroplanit e fikur.</string>
+<string name="accessibility_quick_settings_airplane_on">Metoda e aeroplanit e ndezur.</string>
+<string name="accessibility_quick_settings_airplane_changed_off">Metoda e aeroplanit e fikur.</string>
+<string name="accessibility_quick_settings_airplane_changed_on">Metoda e aeroplanit e ndezur.</string>
+<string name="accessibility_quick_settings_bluetooth_off">Bluetooth i fikur.</string>
+<string name="accessibility_quick_settings_bluetooth_on">Bluetooth i ndezur.</string>
+<string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth duke u lidhur.</string>
+<string name="accessibility_quick_settings_bluetooth_connected">Bluetooth u lidh.</string>
+<string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth i fikur.</string>
+<string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth i ndezur.</string>
+<string name="accessibility_quick_settings_location_off">Raportimi i vendodhjes i fikur.</string>
+<string name="accessibility_quick_settings_location_on">Raportimi i vendndodhjes i ndezur.</string>
+<string name="accessibility_quick_settings_location_changed_off">Raportimi i vendodhjes i fikur.</string>
+<string name="accessibility_quick_settings_location_changed_on">Raportimi i vendodhjes i ndezur.</string>
+<string name="accessibility_quick_settings_alarm">"Alarmi i vendosur për <xliff:g id="time" example="Wed 3:30 PM">%s</xliff:g>."</string>
+<string name="accessibility_quick_settings_close">Mbyll panelin.</string>
+<string name="accessibility_quick_settings_more_time">Më shumë kohë.</string>
+<string name="accessibility_quick_settings_less_time">Më pak kohë.</string>
+<string name="accessibility_quick_settings_flashlight_off">Drita elektrike e fikur.</string>
+<string name="accessibility_quick_settings_flashlight_on">Drita elektrike e ndezur.</string>
+<string name="accessibility_quick_settings_flashlight_changed_off">Drita elektrike e fikur.</string>
+<string name="accessibility_quick_settings_flashlight_changed_on">Drita elektrike e ndezur.</string>
+<string name="accessibility_quick_settings_color_inversion_changed_off">Inversioni i ngjyrave i fikur.</string>
+<string name="accessibility_quick_settings_color_inversion_changed_on">Inversioni i ngjyrave i ndezur.</string>
+<string name="accessibility_quick_settings_hotspot_changed_off">Hotspoti celular i fikur.</string>
+<string name="accessibility_quick_settings_hotspot_changed_on">Hotspoti celular i ndezur.</string>
+<string name="accessibility_casting_turned_off">Transmetimi i ekranit i ndaluar.</string>
+<string name="accessibility_brightness">Ndriçimi i ekranit</string>
+<string name="data_usage_disabled_dialog_3g_title">Interneti 2G-3G është i fikur</string>
+<string name="data_usage_disabled_dialog_4g_title">Interneti 4G është i fikur</string>
+<string name="data_usage_disabled_dialog_mobile_title">Interneti celular është i fikur</string>
+<string name="data_usage_disabled_dialog_title">Interneti është i fikur</string>
+<string name="data_usage_disabled_dialog">Pajisja juaj ka fikur internetin celular sepse ka arritur limtin që keni ju keni vendosur. \n\nNdezja e tij mund të çojë në tarifa nga rrjeti juaj.</string>
+<string name="data_usage_disabled_dialog_enable">Aktivizo internetin celular</string>
+<string name="status_bar_settings_signal_meter_disconnected">Nuk ka lidhje interneti</string>
+<string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi u lidh</string>
+<string name="gps_notification_searching_text">Duke kërkuar për GPS</string>
+<string name="gps_notification_found_text">Vendndodhja e caktuar nga GPS</string>
+<string name="accessibility_location_active">Kërkesat e vendndodhjes aktive</string>
+<string name="accessibility_clear_all">Pastro të gjitha njoftimet.</string>
+<string name="status_bar_notification_inspect_item_title">Cilësime të njoftimeve</string>
+<string name="status_bar_notification_app_settings_title">"<xliff:g id="app_name" example="Kalendar">%s</xliff:g> parametrat"</string>
+<string name="accessibility_rotation_lock_off">Ekrani do të rrotullohet automatikisht.</string>
+<string name="accessibility_rotation_lock_on_landscape">Ekrani është i kyçur në orientimin peizazh.</string>
+<string name="accessibility_rotation_lock_on_portrait">Ekrani është i kyçur në orientimin portret.</string>
+<string name="accessibility_rotation_lock_off_changed">Tani ekrani do të rrotullohet automatikisht.</string>
+<string name="accessibility_rotation_lock_on_landscape_changed">Ekrani tani është i kyçur në orientimin horizontal.</string>
+<string name="accessibility_rotation_lock_on_portrait_changed">Ekrani tani është i kyçur në orientimin portret.</string>
+<string name="dessert_case">Kuti Ëmbëlsire</string>
+<string name="start_dreams">Fantazi</string>
+<string name="ethernet_label">Ethernet</string>
+<string name="quick_settings_airplane_mode_label">Metoda Aeroplan</string>
+<string name="quick_settings_bluetooth_label">Bluetooth</string>
+<string name="quick_settings_bluetooth_multiple_devices_label">"Bluetooth (<xliff:g id="number">%d</xliff:g> Pajisje)"</string>
+<string name="quick_settings_bluetooth_off_label">Bluetooth joaktiv</string>
+<string name="quick_settings_bluetooth_detail_empty_text">Nuk ka pajisje të lidhura në dispozicion</string>
+<string name="quick_settings_brightness_label">Ndriçimi</string>
+<string name="quick_settings_rotation_unlocked_label">Auto-rrotullo</string>
+<string name="quick_settings_rotation_locked_label">Rrotullimi i Kyçur</string>
+<string name="quick_settings_rotation_locked_portrait_label">Portret</string>
+<string name="quick_settings_rotation_locked_landscape_label">Peizazh</string>
+<string name="quick_settings_ime_label">Metoda e hyrjes</string>
+<string name="quick_settings_location_label">Vendndodhja</string>
+<string name="quick_settings_location_off_label">Vendndodhja e fikur</string>
+<string name="quick_settings_media_device_label">Pajisja mediatike</string>
+<string name="quick_settings_rssi_emergency_only">Vetëm telefonatat e emergjencës</string>
+<string name="quick_settings_settings_label">Cilësimet</string>
+<string name="quick_settings_time_label">Ora</string>
+<string name="quick_settings_user_label">Unë</string>
+<string name="quick_settings_user_title">Përdoruesi</string>
+<string name="quick_settings_user_new_user">Përdorues i ri</string>
+<string name="quick_settings_wifi_label">Wi-Fi</string>
+<string name="quick_settings_wifi_not_connected">Nuk është lidhur</string>
+<string name="quick_settings_wifi_no_network">Ska rrjet</string>
+<string name="quick_settings_wifi_off_label">Wi-Fi joaktiv</string>
+<string name="quick_settings_wifi_detail_empty_text">Nuk ka rrjete të ruajtura në dispozicion</string>
+<string name="quick_settings_cast_title">Transmeto ekranin</string>
+<string name="quick_settings_casting">Duke transmetuar</string>
+<string name="quick_settings_cast_device_default_name">Pajisje e paemërtuar</string>
+<string name="quick_settings_cast_device_default_description">Gati për transmetim</string>
+<string name="quick_settings_cast_detail_empty_text">Nuk ka pajisje në dispozicion</string>
+<string name="quick_settings_brightness_dialog_title">Ndriçimi</string>
+<string name="quick_settings_brightness_dialog_auto_brightness_label">Auto</string>
+<string name="quick_settings_inversion_label">Shkëmbe ngjyrat</string>
+<string name="quick_settings_color_space_label">Metoda e korrigjimit të ngjyrave</string>
+<string name="quick_settings_more_settings">Më shumë parametra</string>
+<string name="quick_settings_done">U krye</string>
+<string name="quick_settings_connected">U lidh</string>
+<string name="quick_settings_connecting">Duke u lidhur...</string>
+<string name="quick_settings_tethering_label">Bashkimi</string>
+<string name="quick_settings_hotspot_label">Hotspot</string>
+<string name="quick_settings_notifications_label">Njoftimet</string>
+<string name="quick_settings_flashlight_label">Dritë elektrike</string>
+<string name="quick_settings_cellular_detail_title">Internet celular</string>
+<string name="quick_settings_cellular_detail_data_usage">Përdorimi i të dhënave</string>
+<string name="quick_settings_cellular_detail_remaining_data">Internet i mbetur</string>
+<string name="quick_settings_cellular_detail_data_used">"<xliff:g id="data_used" example="2.0 GB">%s</xliff:g> të përdorura"</string>
+<string name="quick_settings_cellular_detail_data_limit">"<xliff:g id="data_limit" example="2.0 GB">%s</xliff:g> limit"</string>
+<string name="quick_settings_cellular_detail_data_warning">"<xliff:g id="data_limit" example="2.0 GB">%s</xliff:g> paralajmërim"</string>
+<string name="recents_empty_message">Ekrani juaj shfaqet këtu</string>
+<string name="recents_app_info_button_label">Info të aplikacionit</string>
+<string name="recents_lock_to_app_button_label">Ngulja e ekranit</string>
+<string name="recents_search_bar_label">Kërko</string>
+<string name="recents_launch_error_message">"Nuk mundi të fillojë <xliff:g id="app" example="Calendar">%s</xliff:g>."</string>
+<string name="expanded_header_battery_charged">U karikua</string>
+<string name="expanded_header_battery_charging">Duke u karikuar</string>
+<string name="expanded_header_battery_charging_with_time">"<xliff:g id="charging_time" example="2 hrs 25 min">%s</xliff:g> derisa është plot"</string>
+<string name="expanded_header_battery_not_charging">"Nuk po karikohet"</string>
+<string name="ssl_ca_cert_warning">Rrjeti mund\ntë monitorohet</string>
+<string name="description_target_search">Kërko</string>
+<string name="description_direction_up">"Lëviz lart për <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_left">""Lëviz majtas për <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="zen_no_interruptions_with_warning">Nuk ka ndërprerje. Nuk ka alarme</string>
+<string name="zen_no_interruptions">Nuk ka ndërprerje</string>
+<string name="zen_important_interruptions">Vetëm ndërprerje prioriteti</string>
+<string name="zen_alarm_information_time">"Alarmi juaj i ardhshëm është në <xliff:g id="alarm_time" example="5:00 PM">%s</xliff:g>"</string>
+<string name="zen_alarm_information_day_time">"Alarmi juaj i ardhshëm është <xliff:g id="alarm_day_and_time" example="Pri 5:00 PM">%s</xliff:g>"</string>
+<string name="zen_alarm_warning">"Nuk do ta dëgjoni alarmin tuaj në <xliff:g id="alarm_time" example="5:00 PM">%s</xliff:g>"</string>
+<string name="keyguard_more_overflow_text">"+<xliff:g id="number_of_notifications" example="5">%d</xliff:g>"</string>
+<string name="speed_bump_explanation">Njoftime më pak urgjente më poshtë</string>
+<string name="notification_tap_again">Prek përsëri për ta hapur</string>
+<string name="keyguard_unlock">Lëviz lart për të zhbllokuar</string>
+<string name="phone_hint">Lëviz djathtas për telefonin</string>
+<string name="camera_hint">Lëviz majtas për kamerën</string>
+<string name="interruption_level_none">Heshtur</string>
+<string name="interruption_level_priority">Prioriteti</string>
+<string name="interruption_level_all">Të gjitha</string>
+<string name="keyguard_indication_charging_time">"Duke karikuar (<xliff:g id="charging_time_left" example="4 hours and 2 minutes">%s</xliff:g> derisa të jetë plot)"</string>
+<string name="accessibility_multi_user_switch_switcher">Ndrysho përdoruesin</string>
+<string name="accessibility_multi_user_switch_switcher_with_current">"Ndrysho përdoruesin, përdoruesi aktual <xliff:g id="current_user_name" example="John Doe">%s</xliff:g>"</string>
+<string name="accessibility_multi_user_switch_quick_contact">Trego profilin</string>
+<string name="user_add_user">Shto përdorues</string>
+<string name="user_new_user_name">Përdorues i ri</string>
+<string name="guest_nickname">Mysafir</string>
+<string name="guest_new_guest">Shto mysafir</string>
+<string name="guest_exit_guest">Hiq mysafirin</string>
+<string name="guest_exit_guest_dialog_title">Hiq mysafirin?</string>
+<string name="guest_exit_guest_dialog_message">Të gjitha aplikacionet dhe të dhënat në këtë seancë do të fshihen.</string>
+<string name="guest_exit_guest_dialog_remove">Hiq</string>
+<string name="guest_wipe_session_title">Mirësevini përsëri, mysafir!</string>
+<string name="guest_wipe_session_message">Doni të vazhdoni seancën tuaj?</string>
+<string name="guest_wipe_session_wipe">Fillo nga fillimi</string>
+<string name="guest_wipe_session_dontwipe">Po, vazhdo</string>
+<string name="user_add_user_title">Shto përdorues të ri?</string>
+<string name="user_add_user_message_short">Kur shtoni një përdorues të ri, ai person duhet të caktojë më parë hapësirën e tij. \n\nÇdo përdorues mund të përditësojë aplikacionet për të gjithë përdoruesit e tjerë.</string>
+<string name="battery_saver_notification_title">Kursyesi i baterisë është aktiv</string>
+<string name="battery_saver_notification_text">Redukton performancën e baterisë dhe të dhënat në sfond</string>
+<string name="battery_saver_notification_action_text">Çaktivizo kursyesin e baterisë</string>
+<string name="notification_hidden_text">Përmbajtje të fshehura</string>
+<string name="media_projection_dialog_text">"<xliff:g id="app_seeking_permission" example="Hangouts">%s</xliff:g> do të fillojë të kapë çdo gjë që shfaqet në ekranin tuaj.</string>
+<string name="media_projection_remember_text">Mos e trego përsëri</string>
+<string name="clear_all_notifications_text">Pastro të gjitha</string>
+<string name="media_projection_action_text">Fillo tani</string>
+<string name="empty_shade_text">Asnjë njoftim</string>
+<string name="device_owned_footer">Pajisja mund të monitorohet</string>
+<string name="profile_owned_footer">Profili mund të monitorohet</string>
+<string name="vpn_footer">Rrjeti mund të monitorohet</string>
+<string name="monitoring_title_device_owned">Monitorimi i pajisjes</string>
+<string name="monitoring_title_profile_owned">Monitorimi i profilit</string>
+<string name="monitoring_title">Monitorimi i rrjetit</string>
+<string name="disable_vpn">Çaktivizo VPN</string>
+<string name="disconnect_vpn">Shkëput VPN</string>
+<string name="monitoring_description_device_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori mund të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta.\n\nPër më shumë informacion kontaktoni administratorin tuaj."</string>
+<string name="monitoring_description_vpn">"Ju i dhatë \"<xliff:g id="application">%1$s</xliff:g>\" leje për të konfiguruar një lidhje VPN.\n\nKy aplikacion mund të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta."</string>
+<string name="monitoring_description_legacy_vpn">"Ju jeni të lidhur me një VPN (\"<xliff:g id="application">%1$s</xliff:g>\").\n\nOperatori i shërbimit VPN mund të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta."</string>
+<string name="monitoring_description_vpn_device_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë aktivitetin e rrjetit tuaj përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion, kontaktoni administratorin tuaj.\n\nGjithashtu, ju i dhatë \"<xliff:g id="application">%2$s</xliff:g>\" lejen për të konfiguruar një lidhje VPN. Ky aplikacion mund të monitorojë aktivitetin e rrjetit gjithashtu."</string>
+<string name="monitoring_description_legacy_vpn_device_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë aktivitetin e rrjetit tuaj përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion, kontaktoni me administratorin tuaj. \n\nGjithashtu ju jeni të lidhur me një VPN (\"<xliff:g id="application">%2$s</xliff:g>\"). Operatori i shërbimit VPN mund të monitorojë aktivitetin e rrjetit gjithashtu.</string>
+<string name="monitoring_description_profile_owned">"Ky profil menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori mund të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta.\n\nPër më shumë informacion kontaktoni administratorin tuaj."</string>
+<string name="monitoring_description_device_and_profile_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\nProfili juaj menaxhohet nga:\n<xliff:g id="organization">%2$s</xliff:g>\n\nAdministratori juaj mund të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta.\n\nPër më shumë informacion kontaktoni administratorin tuaj.."</string>
+<string name="monitoring_description_vpn_profile_owned">"Ky profil menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë aktivitetin e rrjetit tuaj përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion, kontaktoni administratorin tuaj.\n\nGjithashtu, ju i dhatë \"<xliff:g id="application">%2$s</xliff:g>\" lejen për të konfiguruar një lidhje VPN. Ky aplikacion mund të monitorojë aktivitetin e rrjetit gjithashtu."</string>
+<string name="monitoring_description_legacy_vpn_profile_owned">"Ky profil menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë aktivitetin e rrjetit tuaj përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion, kontaktoni me administratorin tuaj.\n\nGjithashtu ju jeni të lidhur me një VPN (\"<xliff:g id="application">%2$s</xliff:g>\"). Operatori i shërbimit VPN mund të monitorojë aktivitetin e rrjetit gjithashtu.</string>
+<string name="monitoring_description_vpn_device_and_profile_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\nProfili juaj menaxhohet nga:\n<xliff:g id="organization">%2$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion kontaktoni administratorin tuaj.Për më shumë informacion, kontaktoni administratorin tuaj.\n\nGjithashtu, ju i dhatë \"<xliff:g id="application">%3$s</xliff:g>\" lejen për të konfiguruar një lidhje VPN. Ky aplikacion mund të monitorojë aktivitetin e rrjetit gjithashtu."</string>
+<string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Kjo pajisje menaxhohet nga:\n<xliff:g id="organization">%1$s</xliff:g>\nProfili juaj menaxhohet nga:\n<xliff:g id="organization">%2$s</xliff:g>\n\nAdministratori juaj është në gjendje të monitorojë pajisjen tuaj dhe aktivitetin e rrjetit, përfshirë email-ët, aplikacionet dhe faqet e internetit të sigurta. Për më shumë informacion kontaktoni administratorin tuaj.Për më shumë informacion, kontaktoni me administratorin tuaj. \n\nGjithashtu ju jeni të lidhur me një VPN (\"<xliff:g id="application">%3$s</xliff:g>\"). Operatori i shërbimit VPN mund të monitorojë aktivitetin e rrjetit gjithashtu.</string>
+<string name="keyguard_indication_trust_disabled">Pajisja do të qëndrojë e kyçur derisa ta hapni manualisht</string>
+<string name="hidden_notifications_title">Merrni njoftime më shpejt</string>
+<string name="hidden_notifications_text">Shikojini para se ta hapni</string>
+<string name="hidden_notifications_cancel">Jo faleminderit</string>
+<string name="hidden_notifications_setup">Konfiguro</string>
+<string name="zen_mode_and_condition">"<xliff:g id="zen_mode" example="Priority interruptions only">%1$s</xliff:g>. <xliff:g id="exit_condition" example="For one hour">%2$s</xliff:g>"</string>
+<string name="screen_pinning_positive">E KUPTOVA</string>
+<string name="screen_pinning_negative">Jo faleminderit</string>
+<string name="quick_settings_reset_confirmation_button">Fshih</string>
+<string name="battery_level_template">"<xliff:g id="level" example="45">%d</xliff:g>%%"</string>
+<string name="lte_service_error_airplane">"Nuk mund të përdorni LTE kur telefoni është në metodën e aeroplanit."</string>
+<string name="accessibility_quick_settings_lte_changed_on">"4G i ndezur"</string>
+<string name="accessibility_quick_settings_lte_changed_off">"4G i fikur"</string>
+<string name="accessibility_quick_settings_lte_on">"4G ndezur"</string>
+<string name="accessibility_quick_settings_lte_off">"4G fikur"</string>
+<string name="missing_sim_message">PA SIM</string>
+</resources>
